@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/romulo-de-m-caribe/ponto-inteligente-api.svg?branch=master)](https://travis-ci.org/romulo-de-m-caribe/ponto-inteligente-api)
+[![Build Status](https://travis-ci.org/romulo-de-m-caribe/ponto-inteligente-api-2.svg?branch=master)](https://travis-ci.org/romulo-de-m-caribe/ponto-inteligente-api-2)
 
 # Ponto Inteligente
 API do sistema de ponto inteligente com Java e Spring Boot.
