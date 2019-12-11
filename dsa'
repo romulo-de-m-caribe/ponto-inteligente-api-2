@@ -1,0 +1,72 @@
+[33mcommit 01328ecc06dd088e24787c1d4855a2e8bde100bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c0b2b30 f57f27a
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 19:22:25 2019 -0300
+
+    Merge branch 'master' of https://github.com/romulo-de-m-caribe/ponto-inteligente-api
+
+[33mcommit c0b2b30881b9d117473b831d8cb09b1abfa78086[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 19:20:19 2019 -0300
+
+    Adicionar suporte JPA, MySQL e H2
+
+[33mcommit c6f406c596799470446ef7545c747bbe8bb305e5[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 19:14:11 2019 -0300
+
+    Adicionar o suporte Mysql e H2
+
+[33mcommit f57f27a9a8be0e10adf1564cb3d546c39f0babc9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rômulo de Medeiros <54541280+romulo-de-m-caribe@users.noreply.github.com>
+Date:   Fri Dec 6 18:59:43 2019 -0300
+
+    novo 2
+
+[33mcommit bfbb3cfb67e57711d234792ba699232bf3f08d48[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 18:56:13 2019 -0300
+
+    Adicionar bage do travis
+
+[33mcommit c7a9c72eb38c86c71b6ddbb0cf6b68178062716b[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 18:45:24 2019 -0300
+
+    novo
+
+[33mcommit 58a7acba389cf92761733f03381d942e87fa6e49[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 18:43:07 2019 -0300
+
+    Configurante travis
+
+[33mcommit af5a1b8304aeaf511d157cb81abed6d0ae515601[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 18:33:17 2019 -0300
+
+    Adicionado suporte a CI com TravisCI
+
+[33mcommit d035ea84d7da119c75a8a55e1e8cbfa56710a880[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 17:38:28 2019 -0300
+
+    Adicionado suporte a CI com TravisCI
+
+[33mcommit ed035bb109153297a6b1d425c7e151faef27c43b[m
+Author: romulo.de.m.caribe <romulo.de.m.caribe@accenture.com>
+Date:   Fri Dec 6 17:21:33 2019 -0300
+
+    Commit inicial dos arquivos do projeto.
+
+[33mcommit 2bdf271c4f629472c34c6b5a186ac85322f136d1[m
+Author: Rômulo de Medeiros <54541280+romulo-de-m-caribe@users.noreply.github.com>
+Date:   Fri Dec 6 17:16:11 2019 -0300
+
+    Create README.md
+
+[33mcommit 83cb5e3232a37a6c58bb53034d9d2c3ef9786a29[m
+Author: Rômulo de Medeiros <54541280+romulo-de-m-caribe@users.noreply.github.com>
+Date:   Fri Dec 6 17:14:58 2019 -0300
+
+    Initial commit
